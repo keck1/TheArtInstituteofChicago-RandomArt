@@ -1,0 +1,15 @@
+
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-weight: 10;
+    margin: 5px;
+    text-align: center;
+}
+
+#artwork {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid #b50938;
+    text-align: center;
+}
+
